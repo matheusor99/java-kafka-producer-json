@@ -1,0 +1,6 @@
+server:
+  port: 5051
+
+kafka:
+  bootstrap-servers: localhost:9092
+  topic-product: topic-product
